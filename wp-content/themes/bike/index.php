@@ -102,7 +102,7 @@ get_header(); ?>
 					<p>TELL US THINGS!</p>
 					<?php if( function_exists( 'ninja_forms_display_form' ) ){ ninja_forms_display_form( 1 ); } ?>
 				</div>
-				<img class="img-responsive" id="phone-img" src="wp-content/themes/bike/assets/phone.png" />
+				<img class="img-responsive" id="phone-img" src="wp-content/themes/bike/assets/PHONE.png" />
 			</div>
 		</div>
 	</div>
