@@ -1,0 +1,138 @@
+h2{
+	font-weight: strong;
+	font-size: 3em;
+	font-family: "macho",sans-serif;
+}
+p{
+	font-family: "macho",sans-serif;
+	font-size: 1.7em;
+	line-height: 1.7em;
+}
+h3{
+	font-size: 1.5em;
+	text-transform: uppercase;
+	margin-bottom: 0px;
+}
+.navbar-brand img{
+	max-height: 35px;
+	padding-right: 10px;
+}
+.navbar-brand{
+	text-transform: uppercase;
+	color: black;
+	font-weight: bold;
+	font-family: "macho", sans-serif;
+}
+#hero{
+	background-color: #6FCDE3;
+	padding: 100px 0 100px 0;
+	position: relative;
+	top: 0px;
+}
+#title h1{
+	text-align: right;
+	color: white;
+	font-size: 7.5em;
+	line-height: 1em;
+	margin-top: 7px;
+}
+#title h3{
+	text-align: right;
+	color: white;
+}
+.navbar {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+}
+.navbar li { 
+	color: #000 
+}
+.navbar li a{
+	color: #414042;
+	text-transform: uppercase;
+	font-family: "macho", sans-serif;
+} 
+.navbar>li:hover{
+	color: white;
+	background: rgb(156, 156, 256, .5); 
+} 
+#bare-banner{
+	position: relative;
+	top: -40px;
+}
+#white-banner{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+#bare{
+	padding: 15px 0 15px 0;
+	text-align: center;
+	margin-top: -87px;
+	z-index: 10;
+}
+#time{
+	margin-top: -80px;
+	background: #8DC63F;
+}
+#time-img{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding: 100px 0 75px 0;
+}
+#mission{
+	background: url(../assets/bike-bg.png) no-repeat center center;
+}
+#mission p{
+	color: white;
+	padding: 75px 0;
+	text-align: center;
+}
+#rules-title{
+	background: url(../assets/pink-banner.png) no-repeat center center;
+	background-size: 80% 100%;
+	padding: 20px 0 20px 0;
+	margin: 100px 0 45px 0;
+	text-align: center;
+	color: white;
+}
+#rules p{
+	text-align: center;
+	padding-bottom: 10px;
+}
+#contact{
+	background: #F9ED32;
+	margin-top: 10px;
+}
+#phone-img{
+	position: absolute;
+	right: 0px;
+	max-width: 500px;
+	margin-top: 30px;
+}
+#donate{
+	background: #6FCDE3;
+	color: white;
+	margin-bottom: 10px;
+	padding: 30px 0 30px 0;
+}
+#bottom-img{
+	background: url(../assets/bike-bottom-bg.png) no-repeat center center;
+	height: 300px;
+}
+footer{
+	background-color: #8DC63F;
+	padding: 30px 0;
+	color: #414042;
+	font-family: "macho", sans-serif;
+	font-weight: bold;
+}
+footer a{
+	color: #414042;
+}
+footer ul li{
+	list-style: none;
+}
+
