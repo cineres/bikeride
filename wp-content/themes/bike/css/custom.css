@@ -105,6 +105,7 @@ h3{
 #contact{
 	background: #F9ED32;
 	margin-top: 10px;
+	min-height: 525px;
 }
 #phone-img{
 	position: absolute;
